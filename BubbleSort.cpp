@@ -1,3 +1,9 @@
+/*
+Large values are always sorted first.
+It only takes one iteration to detect that a collection is already sorted.
+The best time complexity for Bubble Sort is O(n). The average and worst time complexity is O(n²).
+The space complexity for Bubble Sort is O(1), because only single additional memory space is required.
+*/
 #include <iostream>
 #include <stdio.h>
 #include <time.h>
